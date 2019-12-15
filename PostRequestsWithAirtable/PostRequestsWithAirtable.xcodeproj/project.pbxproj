@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		BEC2294623A5B243001859FD /* Secrets.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEC2294523A5B243001859FD /* Secrets.swift */; };
+		BEC2294823A5C08E001859FD /* Secrets.swift in Sources */ = {isa = PBXBuildFile; fileRef = BEC2294723A5C08E001859FD /* Secrets.swift */; };
 		CD01CDB42326B70F002D0255 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD01CDB32326B70F002D0255 /* AppDelegate.swift */; };
 		CD01CDB62326B70F002D0255 /* ProjectsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD01CDB52326B70F002D0255 /* ProjectsViewController.swift */; };
 		CD01CDB92326B70F002D0255 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CD01CDB72326B70F002D0255 /* Main.storyboard */; };
@@ -36,7 +36,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		BEC2294523A5B243001859FD /* Secrets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Secrets.swift; sourceTree = "<group>"; };
+		BEC2294723A5C08E001859FD /* Secrets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Secrets.swift; sourceTree = "<group>"; };
 		CD01CDB02326B70F002D0255 /* PostRequestsWithAirtable.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PostRequestsWithAirtable.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CD01CDB32326B70F002D0255 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CD01CDB52326B70F002D0255 /* ProjectsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProjectsViewController.swift; sourceTree = "<group>"; };
@@ -160,7 +160,7 @@
 		CDEB5DFB2326C73C00DE505F /* Secrets */ = {
 			isa = PBXGroup;
 			children = (
-				BEC2294523A5B243001859FD /* Secrets.swift */,
+				BEC2294723A5C08E001859FD /* Secrets.swift */,
 				CDEB5DFC2326C78800DE505F /* Secrets.swift */,
 			);
 			path = Secrets;
@@ -278,7 +278,7 @@
 				CDEB5DF32326C5E100DE505F /* NetworkHelper.swift in Sources */,
 				CD01CDD42326B819002D0255 /* AirtableResponse.swift in Sources */,
 				CDEB5DF62326C62200DE505F /* AppError.swift in Sources */,
-				BEC2294623A5B243001859FD /* Secrets.swift in Sources */,
+				BEC2294823A5C08E001859FD /* Secrets.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
